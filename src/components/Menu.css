@@ -1,0 +1,62 @@
+body{
+    font-family: "Open Sans","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    line-height: 1.42857143;
+}
+.Menu {
+  display: flex;
+}
+.menu {
+  display: flex;
+  width: 50%;
+  justify-content: space-around;
+  flex: 3;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+a{
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    color: #000;
+    border-bottom:5px solid #fff;
+    
+
+}
+.Logo {
+  flex: 1;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.collapse{
+    flex: 2;
+    display: flex;
+    justify-content: right;
+    justify-content: end;
+    align-items: center;
+    gap: 20px;
+
+}
+a:hover{
+color: #f04444;
+border-bottom: 2px solid #f04444;
+
+}
+.collapse svg:hover{
+    cursor: pointer;
+    color: #f04444;
+}
+button{
+    background-color: transparent;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.a{
+    display: flex;
+    gap: 10px;
+    border: none;
+}
+.a:hover{
+    border: none;
+}
