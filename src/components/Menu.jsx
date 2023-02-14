@@ -28,7 +28,7 @@ const Menu = () => {
 
         {
             link:"/",
-            title:"Phân phối và bảo hành",
+            title:"PHÂN PHỐI VÀ BẢO HÀNH",
             notIcon: false,
         },
     ];
