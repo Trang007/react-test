@@ -1,6 +1,7 @@
 body{
     font-family: "Open Sans","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     line-height: 1.42857143;
+    font-weight: 300;
 }
 .Menu {
   display: flex;
@@ -17,7 +18,8 @@ a{
     text-decoration: none;
     display: flex;
     align-items: center;
-    color: #000;
+    color: #222;
+    background-color: transparent;
     border-bottom:5px solid #fff;
     
 

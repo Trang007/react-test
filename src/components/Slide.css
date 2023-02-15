@@ -1,6 +1,15 @@
-.slide{
-    margin-top: 15px;
+body{
+    font-weight: 300;
+    font-family: "Open Sans","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    line-height: 1.42857143;
 }
-.Carousel{
-    height: 60%;
+.slide {
+  display: block;
+  box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 32px 15px 32px 15px;
+}
+.Carousel {
+  box-sizing: border-box;
+  height: 60%;
 }
